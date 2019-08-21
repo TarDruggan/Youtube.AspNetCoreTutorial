@@ -1,6 +1,5 @@
 ﻿using System;
 using System.Collections.Generic;
-using Tweetbook.Domain;
 
 namespace Tweetbook.Contracts.V1.Responses
 {

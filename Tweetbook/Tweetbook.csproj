@@ -33,4 +33,9 @@
     </Content>
   </ItemGroup>
 
+
+  <ItemGroup>
+    <ProjectReference Include="..\Tweetbook.Contracts\Tweetbook.Contracts.csproj" />
+  </ItemGroup>
+
 </Project>
