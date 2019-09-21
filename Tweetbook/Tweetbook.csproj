@@ -15,14 +15,14 @@
     <PackageReference Include="AutoMapper" Version="8.1.1" />
     <PackageReference Include="AutoMapper.Extensions.Microsoft.DependencyInjection" Version="6.1.1" />
     <PackageReference Include="FluentValidation.AspNetCore" Version="8.5.0-preview4" />
-    <PackageReference Include="Microsoft.AspNetCore.Authentication.JwtBearer" Version="3.0.0-preview9.19424.4" />
-    <PackageReference Include="Microsoft.AspNetCore.Identity.EntityFrameworkCore" Version="3.0.0-preview9.19424.4" />
-    <PackageReference Include="Microsoft.AspNetCore.Identity.UI" Version="3.0.0-preview9.19424.4" />
-    <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="3.0.0-preview9.19423.6" />
-    <PackageReference Include="Microsoft.EntityFrameworkCore.InMemory" Version="3.0.0-preview9.19423.6" />
-    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="3.0.0-preview9.19423.6" />
-    <PackageReference Include="Microsoft.Extensions.Caching.StackExchangeRedis" Version="3.0.0-preview9.19423.4" />
-    <PackageReference Include="Microsoft.Extensions.Diagnostics.HealthChecks.EntityFrameworkCore" Version="3.0.0-preview9.19424.4" />
+    <PackageReference Include="Microsoft.AspNetCore.Authentication.JwtBearer" Version="3.0.0-rc1.19457.4" />
+    <PackageReference Include="Microsoft.AspNetCore.Identity.EntityFrameworkCore" Version="3.0.0-rc1.19457.4" />
+    <PackageReference Include="Microsoft.AspNetCore.Identity.UI" Version="3.0.0-rc1.19457.4" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="3.0.0-rc1.19456.14" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.InMemory" Version="3.0.0-rc1.19456.14" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="3.0.0-rc1.19456.14" />
+    <PackageReference Include="Microsoft.Extensions.Caching.StackExchangeRedis" Version="3.0.0-rc1.19456.10" />
+    <PackageReference Include="Microsoft.Extensions.Diagnostics.HealthChecks.EntityFrameworkCore" Version="3.0.0-rc1.19457.4" />
     <PackageReference Include="Swashbuckle.AspNetCore" Version="5.0.0-rc2" />
     <PackageReference Include="Swashbuckle.AspNetCore.Filters" Version="5.0.0-rc7" />
   </ItemGroup>
