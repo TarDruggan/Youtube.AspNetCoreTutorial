@@ -1,3 +1,5 @@
+using System.Linq;
+
 namespace Tweetbook.Domain
 {
     public class PaginationFilter
