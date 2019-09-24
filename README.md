@@ -32,3 +32,4 @@ This is a repo that hosts the code for my ASP.NET Core 3 & 2.2 REST API tutorial
 25) Response caching using Redis - https://youtu.be/KboCpJGa9ag
 26) Implementing pagination - https://youtu.be/cKj6U4qDmgQ
 27) Adding Health Checks - https://youtu.be/bdgtYbGYsK0
+28) Resource filtering - https://youtu.be/Zc9xyOgl8k4
