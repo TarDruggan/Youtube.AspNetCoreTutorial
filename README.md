@@ -33,3 +33,4 @@ This is a repo that hosts the code for my ASP.NET Core 3 & 2.2 REST API tutorial
 27) Implementing pagination - https://youtu.be/cKj6U4qDmgQ
 28) Adding Health Checks - https://youtu.be/bdgtYbGYsK0
 29) Resource filtering - https://youtu.be/Zc9xyOgl8k4
+30) Continuous Integration with GitHub Actions (CI) - https://youtu.be/BO2C5qAyl4w
