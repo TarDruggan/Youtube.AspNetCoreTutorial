@@ -1,3 +1,5 @@
+# This repo is now archived and won't be updated any further. To find the latest sources of the series [CLICK HERE](http://eepurl.com/gLjkuv)
+
 # ASP.NET Core 3/2.2 REST API Tutorial
 
 This is a repo that hosts the code for my ASP.NET Core 3 & 2.2 REST API tutorial
